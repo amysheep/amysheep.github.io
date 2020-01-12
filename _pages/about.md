@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Amy Yang's homepage
+Coming Soon...
 
 
